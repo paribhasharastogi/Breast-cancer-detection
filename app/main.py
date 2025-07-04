@@ -202,7 +202,7 @@ def main():
     with col2:
         add_predictions(input_data)
 
-    st.write("<div class='copyrightfooter'>© 2024 William Luo. All rights reserved.</div>", unsafe_allow_html=True)
+
      
 if __name__ == "__main__":
     main()
